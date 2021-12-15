@@ -1,0 +1,78 @@
+2021-12-15 02:12:391 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:611 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-15 02:12:558 INFO  ComputerPage :31 - Get pageTitle text : Computers
+2021-12-15 02:12:489 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:181 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-15 02:12:708 INFO  DesktopPage :41 - Get pageTitle text Desktops
+2021-12-15 02:12:589 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:498 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-15 02:12:160 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-15 02:12:414 INFO  BuildYourOwnComputerPage :64 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200
+2021-12-15 02:12:510 INFO  BuildYourOwnComputerPage :72 - Select RAM '2 GB
+2021-12-15 02:12:589 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-15 02:12:674 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-15 02:12:752 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (4ab1b3200c3746b29e70d2ad30387db4)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-15 02:12:816 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-15 02:12:692 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-15 02:12:527 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:661 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-15 02:12:238 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-15 02:12:21 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-15 02:12:114 INFO  BuildYourOwnComputerPage :72 - Select RAM '4GB [+$20.00]
+2021-12-15 02:12:210 INFO  BuildYourOwnComputerPage :81 - Select HDD '400 GB [+$100.00]
+2021-12-15 02:12:307 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Premium [+$60.00]
+2021-12-15 02:12:400 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (378194b5b18c10940e513474ae06596f)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-15 02:12:464 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-15 02:12:769 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-15 02:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:810 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-15 02:12:28 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-15 02:12:681 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-15 02:12:768 INFO  BuildYourOwnComputerPage :72 - Select RAM '8GB [+$60.00]
+2021-12-15 02:12:850 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-15 02:12:927 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-15 02:12:30 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (1fa9b9175734f261b53740096fb5569f)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-15 02:12:93 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-15 02:12:395 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-15 02:12:193 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:229 INFO  HomePage :36 - Clicking on login link
+2021-12-15 02:12:542 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (db0857a018a0d54ec1b670d0fa4fc74c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 02:12:312 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:860 INFO  HomePage :36 - Clicking on login link
+2021-12-15 02:12:996 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-15 02:12:331 INFO  LoginPage :67 - Entering password : password1234 to password field
+2021-12-15 02:12:434 INFO  LoginPage :73 - Clicking on login button
+2021-12-15 02:12:911 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (fc084df6b1d62b4441be2ecc788fd3d1)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 02:12:736 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:86 INFO  HomePage :36 - Clicking on login link
+2021-12-15 02:12:222 INFO  LoginPage :62 - Entering email address : anand12@google.com to email field 
+2021-12-15 02:12:319 INFO  LoginPage :67 - Entering password : abcd12345 to password field
+2021-12-15 02:12:415 INFO  LoginPage :73 - Clicking on login button
+2021-12-15 02:12:305 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:333 INFO  HomePage :36 - Clicking on login link
+2021-12-15 02:12:478 INFO  LoginPage :62 - Entering email address : anand12@google.com to email field 
+2021-12-15 02:12:572 INFO  LoginPage :67 - Entering password : abcd12345 to password field
+2021-12-15 02:12:668 INFO  LoginPage :73 - Clicking on login button
+2021-12-15 02:12:721 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-15 02:12:718 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:887 INFO  HomePage :41 - Clicking on register link 
+2021-12-15 02:12:512 INFO  RegisterPage :97 - Getting register text [[ChromeDriver: chrome on WINDOWS (39a1035676b00b00361691edf63889a0)] -> xpath: //h1[normalize-space()='Register']]
+2021-12-15 02:12:371 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:380 INFO  HomePage :41 - Clicking on register link 
+2021-12-15 02:12:658 INFO  RegisterPage :101 - click on Register button
+2021-12-15 02:12:795 INFO  RegisterPage :106 - Getting Error message [[ChromeDriver: chrome on WINDOWS (62b1e1c185ffd34e7cc8aabdecc38922)] -> id: FirstName-error]
+2021-12-15 02:12:832 INFO  RegisterPage :112 - Getting Error message [[ChromeDriver: chrome on WINDOWS (62b1e1c185ffd34e7cc8aabdecc38922)] -> id: LastName-error]
+2021-12-15 02:12:865 INFO  RegisterPage :117 - Getting Error message [[ChromeDriver: chrome on WINDOWS (62b1e1c185ffd34e7cc8aabdecc38922)] -> id: Email-error]
+2021-12-15 02:12:899 INFO  RegisterPage :122 - Getting Error message [[ChromeDriver: chrome on WINDOWS (62b1e1c185ffd34e7cc8aabdecc38922)] -> id: Password-error]
+2021-12-15 02:12:935 INFO  RegisterPage :127 - Getting Error message [[ChromeDriver: chrome on WINDOWS (62b1e1c185ffd34e7cc8aabdecc38922)] -> id: ConfirmPassword-error]
+2021-12-15 02:12:680 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 02:12:901 INFO  HomePage :41 - Clicking on register link 
+2021-12-15 02:12:267 INFO  RegisterPage :131 - click on female gender button
+2021-12-15 02:12:370 INFO  RegisterPage :136 - enter First Name [[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> id: FirstName]
+2021-12-15 02:12:469 INFO  RegisterPage :140 - enter Last Name [[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> id: LastName]
+2021-12-15 02:12:780 INFO  RegisterPage :164 - Select day : '12', month : 'March', year : '1978'
+2021-12-15 02:12:796 INFO  RegisterPage :144 - enter email [[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> id: Email]
+2021-12-15 02:12:949 INFO  RegisterPage :148 - enter Password [[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> id: Password]
+2021-12-15 02:12:45 INFO  RegisterPage :152 - Confirm Passowrd[[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> id: ConfirmPassword]
+2021-12-15 02:12:128 INFO  RegisterPage :101 - click on Register button
+2021-12-15 02:12:493 INFO  RegisterPage :157 - Registration Complete message [[ChromeDriver: chrome on WINDOWS (1c63c6171f17ca645048d554c7aa0fd8)] -> xpath: //div[@class='result' and contains(normalize-space(),'Your registration completed')]]
